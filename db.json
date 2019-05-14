@@ -1,0 +1,60 @@
+[
+        {
+      "id": 1,
+      "fullname": "Mirko Novakovic",
+      "checkedIn": true,
+      "checkInDate": 123456789,
+      "children": [
+        {
+          "name": "Ognjen",
+          "age": 17
+        },
+        {
+          "name": "Marko",
+          "age": 14
+        }
+      ]
+    },
+        {
+      "id": 2,
+      "fullname": "Bojan Djurdjevic",
+      "checkedIn": false
+    },
+    {
+      "id": 3,
+      "fullname": "Dejan Djurdjevic",
+      "checkedIn": false
+    },
+    {
+      "id": 4,
+      "fullname": "Dragan Dejanovic",
+      "checkedIn": true,
+      "checkInDate": 456123789,
+      "children": [
+        {
+          "name": "Pero",
+          "age": 21
+        },
+        {
+          "name": "Milorad",
+          "age": 19
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "fullname": "Bojan Kremenovic",
+      "checkedIn": true,
+      "checkInDate": 456123789,
+      "children": [
+        {
+          "name": "Radojica",
+          "age": 21
+        },
+        {
+          "name": "Pobro",
+          "age": 19
+        }
+      ]
+    }
+]
